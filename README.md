@@ -1,4 +1,4 @@
-# Loan-Predicition
+# Loan-Prediction
 In current economy, loaning someone money is a complicated business. There are various factors that are needed to be considered to calculate the credibility of the applicant. Another important point to note – is that the applicant capable enough to repay the loan? As banks love to thrive on the interests of customers, but they love it, even more, when customers don't default on loan payments. So, businesses as such would love to have such analysis before taking the decision - whether or not to sanction the loan.
 
 Taking this problem into consideration, data science can aid to predict such outcome and approve the loan based on the historical data we have from businesses. In this way, businesses would know beforehand whether to lend the applicant money or not based on the data on his file compared to analysis from the data science models.
