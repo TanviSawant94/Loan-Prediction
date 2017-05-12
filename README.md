@@ -11,19 +11,3 @@ Data Understanding
 There are two datasets available: train dataset and test dataset. The train data set is now supplied to the model, training of the model is dependent on the date set. The data to the test data set is every new applicant details filled at the time of application. After the operation of testing, model predict whether the new applicant is a perfect case for sanctioning of the loan or not based upon the inference of the training data sets.
 
 Source: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
-
-Our data set for the problem looks like:
-Variable		:	Description
-Loan_ID		:	Unique Loan ID
-Gender		:	Male/ Female
-Married		:    	Applicant married (Y/N)
-Dependents		:	Number of dependents
-Education		:	Applicant Education (Graduate/ Undergraduate)
-Self Employed	:	Self-employed (Y/N)
-ApplicantIncome	:	Applicant income
-CoapplicantIncome:	Coapplicant income
-LoanAmount		:	Loan amount in thousands
-Loan_Amount_Term	:	Term of loan in months
-Credit_History	:	credit history meets guidelines
-Property_Area	:	Urban/ Semi Urban/ Rural
-Loan_Status		:	Loan approved (Y/N)
